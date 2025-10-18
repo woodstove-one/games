@@ -1,0 +1,45 @@
+h1 {
+    color: #333;
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1.5em;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #f0f0f0;
+    background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    padding: 1em;
+    border-radius: 30px;
+}
+
+nav ul li a:hover {
+    color: #e5beff;
+    font-size: 1.1em;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #2A7B9B;
+    background: linear-gradient(0deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 1.2em;
+    color: #444;
+    line-height: 1.6;
+    margin: 20px;
+}
