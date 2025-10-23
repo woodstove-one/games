@@ -6,7 +6,7 @@ h1 {
     margin-bottom: 50px;
 }
 
-nav ul {
+ul {
     list-style-type: none;
     padding: 0;
     text-align: center;
@@ -14,7 +14,7 @@ nav ul {
     font-size: 1.5em;
 }
 
-nav ul li a {
+a {
     text-decoration: none;
     color: #f0f0f0;
     background: #020024;
@@ -23,7 +23,7 @@ nav ul li a {
     border-radius: 30px;
 }
 
-li a:hover {
+a:hover {
     color: #e5beff;
     font-size: 1.1em;
 }
